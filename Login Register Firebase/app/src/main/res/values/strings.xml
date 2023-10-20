@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login Register Firebase</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="passsword">passsword</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">CLick to Login</string>
+    <string name="click_to_register">CLick to Register</string>
+    <string name="logout">\n\n</string>
+    <string name="Logout">logout</string>
+</resources>
