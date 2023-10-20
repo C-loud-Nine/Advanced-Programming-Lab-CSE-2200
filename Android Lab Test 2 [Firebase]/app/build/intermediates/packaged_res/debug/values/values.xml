@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Delete">Delete</string>
+    <string name="Email">Email</string>
+    <string name="Login">Login</string>
+    <string name="app_name">Labtest2</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click To Register</string>
+    <string name="click_to_signup">click_to_signup</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="delete">Delete</string>
+    <string name="email">Email</string>
+    <string name="gcm_defaultSenderId" translatable="false">422815194462</string>
+    <string name="google_api_key" translatable="false">AIzaSyCvpoOHDU1na7W8MKBRECHoAW7nPxdSCzw</string>
+    <string name="google_app_id" translatable="false">1:422815194462:android:df78ee3aba79662e9003cf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCvpoOHDU1na7W8MKBRECHoAW7nPxdSCzw</string>
+    <string name="google_storage_bucket" translatable="false">labtest2-913e1.appspot.com</string>
+    <string name="login">Login</string>
+    <string name="login_page">Login Page</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">labtest2-913e1</string>
+    <string name="register">Register</string>
+    <string name="signup">Signup</string>
+    <string name="signup_page">Signup Page</string>
+    <string name="update">Update</string>
+    <style name="Base.Theme.Labtest2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Labtest2" parent="Base.Theme.Labtest2"/>
+</resources>
