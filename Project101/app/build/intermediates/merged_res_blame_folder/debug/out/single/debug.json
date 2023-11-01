@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_qq.png.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\qq.png"
+    },
+    {
+        "merged": "com.example.project101.app-merged_res-42:/drawable-200dpi_pngtree_mobile_cash_withdrawal_png_image_5422684.jpg.flat",
+        "source": "com.example.project101.app-main-44:/drawable-200dpi/pngtree_mobile_cash_withdrawal_png_image_5422684.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_moni.jpg.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\moni.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_person_24.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\layout_activity_pinchange.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\layout\\activity_pinchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\font_akaya_telivigala.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\font\\akaya_telivigala.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\font_amiko_semibold.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\font\\amiko_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_atm.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\atm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_rate.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_did.png.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\did.png"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-mdpi_card.webp.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-mdpi\\card.webp"
+    },
+    {
+        "merged": "com.example.project101.app-merged_res-42:/layout_activity_cashwithdraw.xml.flat",
+        "source": "com.example.project101.app-main-44:/layout/activity_cashwithdraw.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_home_24.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_atm.png.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\atm.png"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_simuwalet.jpeg.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\simuwalet.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_circard.png.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\circard.png"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_pin.jpg.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\pin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\font_amiko.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\font\\amiko.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\layout_menu_header.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\layout\\menu_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\font_baloo.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\font\\baloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\font_andika.ttf.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\font\\andika.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_ww.png.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\ww.png"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_location.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\font_arbutus.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\font\\arbutus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\font_bree_serif.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\font\\bree_serif.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_contact.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\layout_activity_balance_check.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\layout\\activity_balance_check.xml"
+    },
+    {
+        "merged": "com.example.project101.app-merged_res-42:/drawable-200dpi_cashwi.jpeg.flat",
+        "source": "com.example.project101.app-main-44:/drawable-200dpi/cashwi.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_logout_24.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_meni.png.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\meni.png"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_pinchange.png.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\pinchange.png"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_exit_to_app_24.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\exit_to_app_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_dashpic.png.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\dashpic.png"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_card1.webp.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\card1.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\font_amiko_semibold1.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\font\\amiko_semibold1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_ques.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\ques.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_login.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_info_24.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_branch.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\branch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\layout_activity_user_profile.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_bala.jpg.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\bala.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_cash.jpg.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\cash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable-200dpi_acc.jpg.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable-200dpi\\acc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_webhook_24.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\webhook_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-merged_res-42:\\drawable_share.xml.flat",
+        "source": "C:\\Users\\Shafi.09\\.gradle\\daemon\\8.0\\com.example.project101.app-main-44:\\drawable\\share.xml"
+    }
+]

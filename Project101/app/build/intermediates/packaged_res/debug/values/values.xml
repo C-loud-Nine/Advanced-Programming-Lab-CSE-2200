@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akaya_telivigala</item>
+        <item>@font/amiko</item>
+        <item>@font/amiko_semibold</item>
+        <item>@font/amiko_semibold1</item>
+        <item>@font/arbutus</item>
+        <item>@font/baloo</item>
+        <item>@font/bree_serif</item>
+    </array>
+    <color name="black">#FF000000</color>
+    <color name="fff">#fff</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="about">About</string>
+    <string name="account_info">Account Info.</string>
+    <string name="already_registered_log_in_here">Already Registered ? Log in Here !</string>
+    <string name="app_name">Project101</string>
+    <string name="atmaster">ATMaster</string>
+    <string name="balance">Balance</string>
+    <string name="balance_check">Balance Check</string>
+    <string name="banking_at_your_fingertips">Banking at Your Fingertips</string>
+    <string name="banking_but_better">Banking , But Better !</string>
+    <string name="branch">Branch</string>
+    <string name="branch_locator">Branch Locator</string>
+    <string name="cash_withdraw">Cash Withdraw</string>
+    <string name="contact">Contact</string>
+    <string name="dasshboard">Dasshboard</string>
+    <string name="enter">Enter</string>
+    <string name="enter_card_number">Enter Card Number</string>
+    <string name="enter_credentials_to_continue">Enter Credentials To Continue</string>
+    <string name="enter_pin_number">Enter Pin Number</string>
+    <string name="exit">Exit</string>
+    <string name="find_atm">Find ATM</string>
+    <string name="gcm_defaultSenderId" translatable="false">487591091739</string>
+    <string name="google_api_key" translatable="false">AIzaSyC-4Oo6njJ8xPcduXCsSxRveCMFBH8PhH8</string>
+    <string name="google_app_id" translatable="false">1:487591091739:android:031d281a504ed5f9b6a2be</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC-4Oo6njJ8xPcduXCsSxRveCMFBH8PhH8</string>
+    <string name="google_storage_bucket" translatable="false">simuwallet-f395e.appspot.com</string>
+    <string name="help_and_support">Help and Support</string>
+    <string name="home">Home</string>
+    <string name="login"/>
+    <string name="login1">Login</string>
+    <string name="logina">Login</string>
+    <string name="logout"/>
+    <string name="logouts">Logout</string>
+    <string name="name">Name</string>
+    <string name="navigation_drawer_close">Close navigaton drwer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="new_user_register_here">New User? Register Here !</string>
+    <string name="one_stop_banking_solution">One Stop Banking Solution</string>
+    <string name="one_stop_banking_solution1">One Stop Banking Solution</string>
+    <string name="one_stop_banking_solution11">One Stop Banking Solution</string>
+    <string name="others">Others</string>
+    <string name="pin_change">Pin Change</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">simuwallet-f395e</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="register_to_continue">Register to continue</string>
+    <string name="share_app">Share App</string>
+    <string name="simuwallet">SimuWallet</string>
+    <string name="simuwallet2">SimuWallet</string>
+    <string name="simuwalleta">SimuWallet</string>
+    <string name="simuwalletk">SimuWallet</string>
+    <string name="simuwallett">SimuWallet</string>
+    <string name="simuwallettt">SimuWallet</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo11">TODO</string>
+    <string name="todo111">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="website">Website</string>
+    <style name="Base.Theme.Project101" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+    <style name="Theme.Project101" parent="Base.Theme.Project101"/>
+    <style name="navigationTheme">
+        <item name="colorPrimary">#EBEBEB</item>
+        <item name="colorControlHighlight">#313A5C</item>
+        <item name="android:statusBarColor">#00000000</item>
+    </style>
+</resources>
