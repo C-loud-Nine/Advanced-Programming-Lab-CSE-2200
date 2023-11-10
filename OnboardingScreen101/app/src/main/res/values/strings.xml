@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Onboarding</string>
+
+    //Headings
+    <string name="heading_one">Quick &amp; Easy Payments</string>
+    <string name="heading_two">Instant Deposit</string>
+    <string name="heading_three">Cashless Payment</string>
+    <string name="heading_fourth">Banking Anywhere</string>
+
+    //Description
+    <string name="desc_one">Grow your Business By Accepting Card Payments with Simuwallet To Begin a New Dimension</string>
+    <string name="desc_two">Swift and Seamless: Your Money, Your Time – Instant Payments at Your Fingertips!</string>
+    <string name="desc_three">Go Beyond Cash: Effortless Transactions, Limitless Possibilities – Embrace the Future with Our Cashless Payment Experience!</string>
+    <string name="desc_fourth">Banking Unleashed, Anywhere You Go – Elevate Your Financial Freedom with Our ATM App!</string>
+
+</resources>
