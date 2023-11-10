@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Project101" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="Theme.Project101" parent="Base.Theme.Project101" />
+    
+    <style name="navigationTheme">
+        <item name="colorPrimary">#EBEBEB</item>
+        <item name="colorControlHighlight">#313A5C</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/my_primary</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
